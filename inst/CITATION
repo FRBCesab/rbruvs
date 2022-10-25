@@ -3,7 +3,7 @@ citHeader("To cite rbruvs in publications use:")
 bibentry(
   bibtype = "Manual",
   title   = "rbruvs: {An} {R} package to ...",
-  author  = c(person("Casajus Nicolas")),
+  author  = c(person("Casajus Nicolas"), person("Letessier Tom B."), person("Mannocci Laura")),
   year    = "2022",
   note    = "R package version 0.0.0.9000",
   url     = "https://github.com/frbcesab/rbruvs"

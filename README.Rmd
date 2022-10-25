@@ -61,7 +61,7 @@ Here is an overview of `rbruvs` content: **{{ PLEASE ADD A FEW LINES }}**
 
 Please cite this package as: 
 
-> Casajus Nicolas (`r format(Sys.Date(), "%Y")`) rbruvs: An R 
+> Casajus N, Letessier TB & Mannocci L (`r format(Sys.Date(), "%Y")`) rbruvs: An R 
 package to **{{ TITLE }}**. R package version 0.0.0.9000.
 
 

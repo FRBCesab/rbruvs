@@ -19,5 +19,11 @@ Useful links:
 \author{
 \strong{Maintainer}: Nicolas Casajus \email{nicolas.casajus@fondationbiodiversite.fr} (\href{https://orcid.org/0000-0002-5537-5294}{ORCID}) [copyright holder]
 
+Authors:
+\itemize{
+  \item Tom B. Letessier \email{tomletessier@gmail.com} (\href{https://orcid.org/0000-0003-4011-0207}{ORCID})
+  \item Laura Mannocci \email{laura.mannocci@gmail.com} (\href{https://orcid.org/0000-0001-8147-8644}{ORCID})
+}
+
 }
 \keyword{internal}
